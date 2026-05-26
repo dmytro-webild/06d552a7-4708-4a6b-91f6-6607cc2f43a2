@@ -68,7 +68,7 @@ export default function LandingPage() {
           handle: "Homeowner, Brownsville",
           testimonial: "ACE Roofing RGV provided exceptional service from start to finish. Our new roof looks stunning and the team was incredibly professional.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-entrepreneur-posing-camera_1262-3636.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiling-entrepreneur-posing-camera_1262-3636.jpg?_wi=1",
           imageAlt: "Sarah J.",
         },
         {
@@ -141,7 +141,7 @@ export default function LandingPage() {
         },
       ]}
       avatarText="Join 100s of satisfied RGV homeowners"
-      imageSrc="http://img.b2bpic.net/free-photo/smiling-entrepreneur-posing-camera_1262-3636.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/smiling-entrepreneur-posing-camera_1262-3636.jpg?_wi=2"
       imageAlt="professional male portrait smiling"
     />
   </div>
